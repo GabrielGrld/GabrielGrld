@@ -5,7 +5,10 @@ I'm  an entry level Full-stack Web developer from Colombia  🇨🇴
 
 Currently studying at MisionTIC 2022.  I like to program in Javascript and Python.
 
-**Languages and Tools:**  
+I am an entry level full-stack Web developer. I like to program in Javascript and Python. 
+Passionate about teaching and learning new things everyday. I am currently learning React 
+for the frontend and Django for the backend.
+
 
 
 | <a href="https://github.com/GabrielGrld"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielGrld&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&hide=stars" alt="Gabriel's github stats" /></a> | <a href="https://github.com/GabrielGrld"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGrld&layout=compact&theme=buefy&exclude_repo=OOP_with_python&hide_border=true" /></a> |
